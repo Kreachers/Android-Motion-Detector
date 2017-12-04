@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServiceExample</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="clear">Clear</string>
+    <string name="exit">Exit</string>
+    <string name="everything_was_quite">Everything was quite</string>
+    <string name="quite">Everything was quite</string>
+
+</resources>
